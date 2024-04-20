@@ -22,3 +22,5 @@ Before you begin, ensure you have met the following requirements:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Screenshot
+
+[streamlit-app-2024-04-21-03-04-24.webm](https://github.com/figo2001/Pipeline-Project/assets/78696850/2cc7b94c-d673-4b78-8677-7fb73d6ea7fb)
