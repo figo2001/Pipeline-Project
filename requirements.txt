@@ -1,2 +1,2 @@
 streamlit ==1.29.0
-pickle5
+scikit-learn== 1.4.1.post1
